@@ -10,6 +10,10 @@
 #ifndef __VOICE_CN_PA_HPP
 #define __VOICE_CN_PA_HPP
 
+    /**
+     * @brief 
+     * 
+     */
     #define VOICE_WELLCOME                          1
     #define VOICE_DRIVER_AUTHORIZED                 2
     #define VOICE_DRIVER_UNAUTHORIZED               3
